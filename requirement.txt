@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+openai
+tiktoken
+gitpython
+streamlit
+python-dotenv
