@@ -14,3 +14,4 @@ python-dotenv
 gitpython
 streamlit
 langchain-openai
+python-multipart
