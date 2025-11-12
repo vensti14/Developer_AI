@@ -31,4 +31,4 @@ if st.button("⚡ Run"):
                 else:
                     st.error(f"❌ API returned error: {response.status_code}")
             except Exception as e:
-                st.error(f"🚨 Connection error: {e}")
+                st.error(f" Connection error: {e}")
