@@ -1,5 +1,7 @@
 ### CodeCompanion – AI Developer Assistant
 
+Beta Release – initial version still under development
+
 CodeCompanion is a full-stack AI tool that helps developers **explain**, **debug**, and **optimize** code.  
 It combines a FastAPI backend with a Streamlit frontend and uses large language models (LLMs) through **Groq** or **Hugging Face APIs**.  
 The app also supports basic RAG (retrieval-augmented generation) to provide context-aware answers from source files.
